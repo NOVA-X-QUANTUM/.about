@@ -1,4 +1,4 @@
-# ⚡ NOVA X Quantum Inc.
+# NOVA X Quantum Inc.
 ## Deterministic Infrastructure for Autonomous Systems
 
 ![ACELOGIC](https://img.shields.io/badge/ACELOGIC-Control%20Plane-00D8FF)
