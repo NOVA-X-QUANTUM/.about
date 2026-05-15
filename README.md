@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NOVA-X-Quantum/.github/main/profile/banner.png" width="100%" />
-</p>
-
 # ⚡ NOVA X Quantum Inc.
 ## Deterministic Infrastructure for Autonomous Systems
 
