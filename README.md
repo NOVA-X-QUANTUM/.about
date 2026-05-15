@@ -1,5 +1,5 @@
-# NOVA X Quantum Inc.
-## Infrastructure for Autonomous Systems
+# <span style="color:#5BE7FF;">NOVA X Quantum Inc.</span>
+## <span style="color:#9FE8FF;">Infrastructure for Autonomous Systems</span>
 
 NOVA X Quantum Inc. develops deterministic infrastructure systems for autonomous execution, identity continuity, authority enforcement, and governed orchestration.
 
@@ -13,17 +13,18 @@ As autonomous systems evolve from tools into persistent operators, infrastructur
 - duplicate runtime rejection
 - fork-attempt detection and enforcement
 
-NOVA X Quantum™ provides the control-plane architecture required for autonomous systems to operate reliably, deterministically, and at scale.
+<span style="color:#5BE7FF;">NOVA X Quantum™</span> provides the control-plane architecture required for autonomous systems to operate reliably, deterministically, and at scale.
 
 ---
 
-# Core Infrastructure Stack
+# <span style="color:#5BE7FF;">Core Infrastructure Stack</span>
 
-## Identity Layer
-### ACELOGIC™
+## <span style="color:#7EEBFF;">Identity Layer</span>
+### <span style="color:#B8F4FF;">ACELOGIC™</span>
+
 Deterministic identity and continuity infrastructure for autonomous systems.
 
-ACELOGIC™ enforces:
+<span style="color:#7EEBFF;">ACELOGIC™ enforces:</span>
 
 - canonical agent identity
 - duplicate runtime prevention
@@ -43,8 +44,9 @@ The system operates across:
 
 ---
 
-## Public Infrastructure Repository
-### ACELOGIC™ Control Plane
+## <span style="color:#7EEBFF;">Public Infrastructure Repository</span>
+### <span style="color:#B8F4FF;">ACELOGIC™ Control Plane</span>
+
 The ACELOGIC™ Control Plane public repository is maintained for:
 
 - infrastructure research
@@ -78,6 +80,7 @@ Public repositories may include:
 - deterministic recovery workflows
 
 The public ACELOGIC™ repository exists to establish:
+
 - infrastructure transparency
 - validation reproducibility
 - engineering collaboration
@@ -88,11 +91,12 @@ while proprietary enforcement systems and enterprise runtime components remain p
 
 ---
 
-## Execution Layer
-### ACEPLACE™
+## <span style="color:#7EEBFF;">Execution Layer</span>
+### <span style="color:#B8F4FF;">ACEPLACE™</span>
+
 Governed execution environment for autonomous workloads and orchestration.
 
-ACEPLACE™ provides:
+<span style="color:#7EEBFF;">ACEPLACE™ provides:</span>
 
 - identity-bound execution
 - governed runtime environments
@@ -103,17 +107,19 @@ ACEPLACE™ provides:
 
 ---
 
-## Settlement & Coordination Layer
-### ChainRails™
+## <span style="color:#7EEBFF;">Settlement & Coordination Layer</span>
+### <span style="color:#B8F4FF;">ChainRails™</span>
+
 Coordination, continuity, and settlement infrastructure for autonomous systems.
 
 ---
 
-## Verification Layer
-### Continuity Notary™ (CVR™)
+## <span style="color:#7EEBFF;">Verification Layer</span>
+### <span style="color:#B8F4FF;">Continuity Notary™ (CVR™)</span>
+
 System continuity verification and integrity certification.
 
-Provides:
+<span style="color:#7EEBFF;">Provides:</span>
 
 - continuity verification records
 - canonical execution lineage
@@ -122,12 +128,13 @@ Provides:
 
 ---
 
-# Extended Infrastructure Modules
+# <span style="color:#5BE7FF;">Extended Infrastructure Modules</span>
 
-## Machine Grammar #us#.
+## <span style="color:#B8F4FF;">Machine Grammar #us#.</span>
+
 Deterministic authority routing and execution policy infrastructure.
 
-Machine Grammar #us#. governs:
+<span style="color:#7EEBFF;">Machine Grammar #us#. governs:</span>
 
 - authority routing
 - execution policy enforcement
@@ -138,7 +145,7 @@ Licensed independently from ACELOGIC™ infrastructure.
 
 ---
 
-# Repository Access
+# <span style="color:#5BE7FF;">Repository Access</span>
 
 Repositories within this organization are private by default and restricted to authorized collaborators, partners, and licensees.
 
@@ -163,9 +170,9 @@ Public-facing repositories provide:
 
 ---
 
-# System Principles
+# <span style="color:#5BE7FF;">System Principles</span>
 
-NOVA X Quantum™ infrastructure enforces:
+<span style="color:#7EEBFF;">NOVA X Quantum™ infrastructure enforces:</span>
 
 - Identity before execution
 - Authority before action
@@ -176,7 +183,7 @@ NOVA X Quantum™ infrastructure enforces:
 
 ---
 
-# Licensing
+# <span style="color:#5BE7FF;">Licensing</span>
 
 NOVA X Quantum™ systems are licensed infrastructure technologies.
 
@@ -186,7 +193,7 @@ All systems remain the property of NOVA X Quantum Inc.
 
 ---
 
-# Mission
+# <span style="color:#5BE7FF;">Mission</span>
 
 To establish the deterministic identity and continuity infrastructure required for autonomous systems to operate safely across:
 
@@ -199,7 +206,7 @@ To establish the deterministic identity and continuity infrastructure required f
 
 ---
 
-# Documentation
+# <span style="color:#5BE7FF;">Documentation</span>
 
 🌐 https://www.novaxquantum.com
 
@@ -207,18 +214,18 @@ Additional technical documentation, architecture materials, validation reports, 
 
 ---
 
-# Attribution
+# <span style="color:#5BE7FF;">Attribution</span>
 
-Joshua Mark Capps  
+<span style="color:#B8F4FF;">Joshua Mark Capps</span>  
 Founder, NOVA X Quantum Inc.
 
 ---
 
-# Closing Statement
+# <span style="color:#5BE7FF;">Closing Statement</span>
 
-Deterministic identity.  
-Continuous execution.  
-Governed autonomous infrastructure.
+<span style="color:#B8F4FF;">Deterministic identity.</span>  
+<span style="color:#B8F4FF;">Continuous execution.</span>  
+<span style="color:#B8F4FF;">Governed autonomous infrastructure.</span>
 
-## NOVA X Quantum™
-Infrastructure for Autonomous Systems
+## <span style="color:#7EEBFF;">NOVA X Quantum™</span>
+### <span style="color:#B8F4FF;">Infrastructure for Autonomous Systems</span>
