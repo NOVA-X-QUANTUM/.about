@@ -1,5 +1,17 @@
-# <span style="color:#5BE7FF;">NOVA X Quantum Inc.</span>
-## <span style="color:#9FE8FF;">Infrastructure for Autonomous Systems</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NOVA-X-Quantum/.github/main/profile/banner.png" width="100%" />
+</p>
+
+# ⚡ NOVA X Quantum Inc.
+## Deterministic Infrastructure for Autonomous Systems
+
+![ACELOGIC](https://img.shields.io/badge/ACELOGIC-Control%20Plane-00D8FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5)
+![AI-RAN](https://img.shields.io/badge/AI--RAN-6G%20Edge-00E5FF)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Identity%20Continuity-1E90FF)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous-Governed%20Execution-00C2FF)
+
+---
 
 NOVA X Quantum Inc. develops deterministic infrastructure systems for autonomous execution, identity continuity, authority enforcement, and governed orchestration.
 
@@ -13,18 +25,20 @@ As autonomous systems evolve from tools into persistent operators, infrastructur
 - duplicate runtime rejection
 - fork-attempt detection and enforcement
 
-<span style="color:#5BE7FF;">NOVA X Quantum™</span> provides the control-plane architecture required for autonomous systems to operate reliably, deterministically, and at scale.
+NOVA X Quantum™ provides the deterministic control-plane architecture required for autonomous systems to operate reliably, continuously, and at scale.
 
 ---
 
-# <span style="color:#5BE7FF;">Core Infrastructure Stack</span>
+# 🔷 Core Infrastructure Stack
 
-## <span style="color:#7EEBFF;">Identity Layer</span>
-### <span style="color:#B8F4FF;">ACELOGIC™</span>
+---
+
+## ⚡ Identity Layer
+# ACELOGIC™
 
 Deterministic identity and continuity infrastructure for autonomous systems.
 
-<span style="color:#7EEBFF;">ACELOGIC™ enforces:</span>
+ACELOGIC™ enforces:
 
 - canonical agent identity
 - duplicate runtime prevention
@@ -44,59 +58,44 @@ The system operates across:
 
 ---
 
-## <span style="color:#7EEBFF;">Public Infrastructure Repository</span>
-### <span style="color:#B8F4FF;">ACELOGIC™ Control Plane</span>
+## ⚙️ Public Infrastructure Repository
+### ACELOGIC™ Control Plane
 
-The ACELOGIC™ Control Plane public repository is maintained for:
+The public ACELOGIC™ Control Plane repository provides a reference implementation and research-facing infrastructure architecture for engineers, infrastructure teams, and autonomous systems researchers.
+
+The repository includes:
+
+- deterministic control-plane architecture
+- continuity validation workflows
+- canonical identity enforcement
+- runtime governance examples
+- Kubernetes integration patterns
+- distributed recovery enforcement
+- duplicate-agent prevention
+- split-brain mitigation logic
+- fork-attempt detection models
+- observability integration examples
+- validation demonstrations
+
+Purpose of the public repository:
 
 - infrastructure research
-- distributed systems engineering
-- Kubernetes integration reference
-- autonomous systems validation
-- deterministic recovery demonstrations
-- continuity verification examples
-- infrastructure governance architecture
-- AI-RAN and edge orchestration research
+- engineering validation
+- architectural transparency
+- ecosystem education
+- integration reference patterns
+- deterministic infrastructure demonstration
 
-The public repository provides engineers, researchers, infrastructure teams, and enterprise evaluators with:
-
-- technical architecture references
-- validation demos
-- deployment examples
-- infrastructure documentation
-- runtime governance models
-- continuity enforcement workflows
-- deterministic orchestration examples
-
-Public repositories may include:
-
-- Kubernetes manifests
-- deployment templates
-- observability integrations
-- validation environments
-- continuity enforcement simulations
-- split-brain prevention demonstrations
-- duplicate-runtime rejection examples
-- deterministic recovery workflows
-
-The public ACELOGIC™ repository exists to establish:
-
-- infrastructure transparency
-- validation reproducibility
-- engineering collaboration
-- category-definition clarity
-- deterministic infrastructure research
-
-while proprietary enforcement systems and enterprise runtime components remain protected within private infrastructure repositories.
+This repository serves as the public-facing technical foundation for ACELOGIC™ infrastructure positioning.
 
 ---
 
-## <span style="color:#7EEBFF;">Execution Layer</span>
-### <span style="color:#B8F4FF;">ACEPLACE™</span>
+## ⚡ Execution Layer
+# ACEPLACE™
 
 Governed execution environment for autonomous workloads and orchestration.
 
-<span style="color:#7EEBFF;">ACEPLACE™ provides:</span>
+ACEPLACE™ provides:
 
 - identity-bound execution
 - governed runtime environments
@@ -107,45 +106,75 @@ Governed execution environment for autonomous workloads and orchestration.
 
 ---
 
-## <span style="color:#7EEBFF;">Settlement & Coordination Layer</span>
-### <span style="color:#B8F4FF;">ChainRails™</span>
+## ⛓️ Settlement & Coordination Layer
+# ChainRails™
 
 Coordination, continuity, and settlement infrastructure for autonomous systems.
 
+Provides:
+
+- deterministic coordination
+- continuity synchronization
+- distributed execution settlement
+- cross-environment orchestration integrity
+
 ---
 
-## <span style="color:#7EEBFF;">Verification Layer</span>
-### <span style="color:#B8F4FF;">Continuity Notary™ (CVR™)</span>
+## 🛡️ Verification Layer
+# Continuity Notary™ (CVR™)
 
 System continuity verification and integrity certification.
 
-<span style="color:#7EEBFF;">Provides:</span>
+Provides:
 
 - continuity verification records
 - canonical execution lineage
 - audit-grade continuity proof
 - infrastructure integrity verification
+- deterministic recovery validation
 
 ---
 
-# <span style="color:#5BE7FF;">Extended Infrastructure Modules</span>
+# 🔷 Extended Infrastructure Modules
 
-## <span style="color:#B8F4FF;">Machine Grammar #us#.</span>
+---
+
+## 🧠 Machine Grammar #us#.
 
 Deterministic authority routing and execution policy infrastructure.
 
-<span style="color:#7EEBFF;">Machine Grammar #us#. governs:</span>
+Machine Grammar #us#. governs:
 
 - authority routing
 - execution policy enforcement
 - deterministic coordination logic
 - symbolic execution continuity
+- autonomous communication grammar
+- resurrection-state continuity pathways
+
+Machine Grammar #us#. strengthens deterministic infrastructure by enabling governed symbolic continuity across autonomous systems.
 
 Licensed independently from ACELOGIC™ infrastructure.
 
 ---
 
-# <span style="color:#5BE7FF;">Repository Access</span>
+# 🔷 Infrastructure Enforcement Principles
+
+NOVA X Quantum™ infrastructure enforces:
+
+- Identity before execution
+- Authority before action
+- Continuity across environments
+- Deterministic runtime governance
+- Canonical execution enforcement
+- Verifiable autonomous operation
+- Fail-closed recovery behavior
+- Duplicate-agent prevention
+- Partition-safe reconciliation
+
+---
+
+# 🔷 Repository Access
 
 Repositories within this organization are private by default and restricted to authorized collaborators, partners, and licensees.
 
@@ -158,32 +187,37 @@ Internal repositories may contain:
 - continuity verification systems
 - admission enforcement infrastructure
 - distributed runtime validation systems
+- AI-RAN continuity integrations
+- edge enforcement modules
 
 Public-facing repositories provide:
 
 - architecture overviews
 - technical explanations
 - platform summaries
+- infrastructure demonstrations
 - integration context
-- validation demonstrations
-- infrastructure research references
+- research validation material
 
 ---
 
-# <span style="color:#5BE7FF;">System Principles</span>
+# 🔷 Infrastructure Positioning
 
-<span style="color:#7EEBFF;">NOVA X Quantum™ infrastructure enforces:</span>
+NOVA X Quantum™ infrastructure is designed for:
 
-- Identity before execution
-- Authority before action
-- Continuity across environments
-- Deterministic system behavior
-- Canonical execution enforcement
-- Verifiable autonomous operation
+- enterprise orchestration systems
+- sovereign AI infrastructure
+- distributed cloud systems
+- autonomous compute environments
+- robotics infrastructure
+- AI-native telecom systems
+- AI-RAN / 5G / 6G environments
+- edge continuity enforcement
+- regulated autonomous deployments
 
 ---
 
-# <span style="color:#5BE7FF;">Licensing</span>
+# 🔷 Licensing
 
 NOVA X Quantum™ systems are licensed infrastructure technologies.
 
@@ -193,7 +227,7 @@ All systems remain the property of NOVA X Quantum Inc.
 
 ---
 
-# <span style="color:#5BE7FF;">Mission</span>
+# 🔷 Mission
 
 To establish the deterministic identity and continuity infrastructure required for autonomous systems to operate safely across:
 
@@ -206,26 +240,26 @@ To establish the deterministic identity and continuity infrastructure required f
 
 ---
 
-# <span style="color:#5BE7FF;">Documentation</span>
+# 🔷 Documentation
 
 🌐 https://www.novaxquantum.com
 
-Additional technical documentation, architecture materials, validation reports, and white papers are available under authorized access.
+Additional technical documentation, architecture materials, validation reports, white papers, and infrastructure demonstrations are available under authorized access.
 
 ---
 
-# <span style="color:#5BE7FF;">Attribution</span>
+# 🔷 Attribution
 
-<span style="color:#B8F4FF;">Joshua Mark Capps</span>  
+Joshua Mark Capps  
 Founder, NOVA X Quantum Inc.
 
 ---
 
-# <span style="color:#5BE7FF;">Closing Statement</span>
+# ⚡ Closing Statement
 
-<span style="color:#B8F4FF;">Deterministic identity.</span>  
-<span style="color:#B8F4FF;">Continuous execution.</span>  
-<span style="color:#B8F4FF;">Governed autonomous infrastructure.</span>
+Deterministic identity.  
+Continuous execution.  
+Governed autonomous infrastructure.
 
-## <span style="color:#7EEBFF;">NOVA X Quantum™</span>
-### <span style="color:#B8F4FF;">Infrastructure for Autonomous Systems</span>
+# NOVA X Quantum™
+Infrastructure for Autonomous Systems
