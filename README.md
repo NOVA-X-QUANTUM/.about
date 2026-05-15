@@ -1,149 +1,224 @@
-# 🌌 NOVA X Quantum™️ — Infrastructure for Autonomous Systems
+# NOVA X Quantum Inc.
+## Infrastructure for Autonomous Systems
 
-## 🏛 Enterprise Overview
+NOVA X Quantum Inc. develops deterministic infrastructure systems for autonomous execution, identity continuity, authority enforcement, and governed orchestration.
 
-NOVA X Quantum Inc. develops foundational infrastructure for autonomous systems.
+As autonomous systems evolve from tools into persistent operators, infrastructure must enforce:
 
-As AI evolves from tools into operators, systems must operate as:
-- persistent entities
-- identity-bound agents
-- governed execution systems
+- deterministic identity
+- canonical execution authority
+- continuity across environments
+- verifiable system integrity
+- split-brain prevention
+- duplicate runtime rejection
+- fork-attempt detection and enforcement
 
-NOVA X Quantum™️ provides the control-plane infrastructure required for autonomous systems to operate safely, deterministically, and at scale.
-
----
-
-## 🧬 Core Architecture
-
-NOVA X Quantum™️ is structured as a unified control-plane system across four primary layers:
-
-### Identity Layer
-- **ACELOGIC™** — deterministic identity & continuity for autonomous systems
-
-### Execution Layer
-- **ACEPLACE™** — governed execution environment for autonomous workflows
-
-### Economic Layer
-- **ChainRails™** — coordination and settlement infrastructure
-
-### Certification Layer
-- **Continuity Notary™ (CVR™)** — verifiable continuity and system integrity
+NOVA X Quantum™ provides the control-plane architecture required for autonomous systems to operate reliably, deterministically, and at scale.
 
 ---
 
-## ⚙️ Extended Control Modules
+# Core Infrastructure Stack
 
-- **Machine Grammar #us#.** *(optional licensed protocol)*  
-  Deterministic authority routing and execution policy logic
+## Identity Layer
+### ACELOGIC™
+Deterministic identity and continuity infrastructure for autonomous systems.
 
----
+ACELOGIC™ enforces:
 
-## 🔒 Repository Access Model
+- canonical agent identity
+- duplicate runtime prevention
+- split-brain detection
+- fork-attempt rejection
+- continuity-aware execution governance
+- deterministic authority enforcement
+- purpose-bound execution validation
 
-All repositories within this organization are:
-- Private by default
-- Not publicly accessible
-- Restricted to authorized collaborators and licensees only
+The system operates across:
 
-These repositories contain:
-- core infrastructure systems
-- control-plane implementations
-- internal prototypes and architecture modules
-
----
-
-## Public Access
-
-To understand NOVA X Quantum™️ systems and platforms:
-
-Refer to the public-facing repositories and README files, which provide:
-- high-level architecture overviews
-- system explanations
-- platform breakdowns
-
-Public materials are designed for:
-- partners
-- developers
-- institutions evaluating integration
+- Kubernetes orchestration
+- distributed compute environments
+- cloud and edge systems
+- AI-native infrastructure
+- AI-RAN / 5G / 6G environments
 
 ---
 
-## 🔒 Intellectual Property & Governance
+## Public Infrastructure Repository
+### ACELOGIC™ Control Plane
+The ACELOGIC™ Control Plane public repository is maintained for:
 
-All NOVA X Quantum™️ systems are:
-- Protected by a portfolio of U.S. and international patent-pending filings covering identity, execution, authority, and settlement infrastructure layers
-- Architected as infrastructure primitives (not applications)
-- Licensed — not sold
+- infrastructure research
+- distributed systems engineering
+- Kubernetes integration reference
+- autonomous systems validation
+- deterministic recovery demonstrations
+- continuity verification examples
+- infrastructure governance architecture
+- AI-RAN and edge orchestration research
 
-Ownership remains with NOVA X Quantum Inc.
+The public repository provides engineers, researchers, infrastructure teams, and enterprise evaluators with:
+
+- technical architecture references
+- validation demos
+- deployment examples
+- infrastructure documentation
+- runtime governance models
+- continuity enforcement workflows
+- deterministic orchestration examples
+
+Public repositories may include:
+
+- Kubernetes manifests
+- deployment templates
+- observability integrations
+- validation environments
+- continuity enforcement simulations
+- split-brain prevention demonstrations
+- duplicate-runtime rejection examples
+- deterministic recovery workflows
+
+The public ACELOGIC™ repository exists to establish:
+- infrastructure transparency
+- validation reproducibility
+- engineering collaboration
+- category-definition clarity
+- deterministic infrastructure research
+
+while proprietary enforcement systems and enterprise runtime components remain protected within private infrastructure repositories.
 
 ---
 
-## 🧠 System Principles
+## Execution Layer
+### ACEPLACE™
+Governed execution environment for autonomous workloads and orchestration.
 
-NOVA X Quantum™️ infrastructure enforces:
+ACEPLACE™ provides:
+
+- identity-bound execution
+- governed runtime environments
+- execution traceability
+- continuity-aware workflows
+- multi-agent coordination
+- lifecycle monitoring
+
+---
+
+## Settlement & Coordination Layer
+### ChainRails™
+Coordination, continuity, and settlement infrastructure for autonomous systems.
+
+---
+
+## Verification Layer
+### Continuity Notary™ (CVR™)
+System continuity verification and integrity certification.
+
+Provides:
+
+- continuity verification records
+- canonical execution lineage
+- audit-grade continuity proof
+- infrastructure integrity verification
+
+---
+
+# Extended Infrastructure Modules
+
+## Machine Grammar #us#.
+Deterministic authority routing and execution policy infrastructure.
+
+Machine Grammar #us#. governs:
+
+- authority routing
+- execution policy enforcement
+- deterministic coordination logic
+- symbolic execution continuity
+
+Licensed independently from ACELOGIC™ infrastructure.
+
+---
+
+# Repository Access
+
+Repositories within this organization are private by default and restricted to authorized collaborators, partners, and licensees.
+
+Internal repositories may contain:
+
+- infrastructure implementations
+- orchestration systems
+- prototype environments
+- control-plane modules
+- continuity verification systems
+- admission enforcement infrastructure
+- distributed runtime validation systems
+
+Public-facing repositories provide:
+
+- architecture overviews
+- technical explanations
+- platform summaries
+- integration context
+- validation demonstrations
+- infrastructure research references
+
+---
+
+# System Principles
+
+NOVA X Quantum™ infrastructure enforces:
+
 - Identity before execution
 - Authority before action
-- Continuity across time and environment
+- Continuity across environments
 - Deterministic system behavior
+- Canonical execution enforcement
+- Verifiable autonomous operation
 
 ---
 
-## ⚖️ Licensing Model
+# Licensing
 
-NOVA X Quantum™️ operates under a license-only infrastructure model:
-- No transfer of intellectual property
-- Controlled system deployment
-- Structured interoperability
-- Enforced upgrade pathways
+NOVA X Quantum™ systems are licensed infrastructure technologies.
 
----
+No intellectual property ownership is transferred through deployment, access, or integration.
 
-## 🌍 Mission
-
-To establish the identity and continuity layer required for autonomous systems to operate reliably across:
-- enterprise systems
-- financial infrastructure
-- robotics and physical environments
-- sovereign and regulated deployments
+All systems remain the property of NOVA X Quantum Inc.
 
 ---
 
-## 📖 Documentation
+# Mission
 
-- 🌐 https://www.novaxquantum.com
-- Public README repositories (platform overviews)
-- White papers available under authorized access
-- Patent documentation disclosed under NDA
+To establish the deterministic identity and continuity infrastructure required for autonomous systems to operate safely across:
 
----
-
-## 🛡 Access & Use
-
-This organization is not open source.
-
-Repositories are:
-- private
-- licensed
-- governed under structured agreements
-
-Unauthorized use, replication, or derivative systems are prohibited.
+- enterprise infrastructure
+- orchestration systems
+- distributed compute
+- robotics environments
+- AI-native network systems
+- regulated and sovereign deployments
 
 ---
 
-## 🧬 Attribution
+# Documentation
 
-Core system architecture and control-plane concepts:
+🌐 https://www.novaxquantum.com
 
-**Joshua Mark Capps**  
+Additional technical documentation, architecture materials, validation reports, and white papers are available under authorized access.
+
+---
+
+# Attribution
+
+Joshua Mark Capps  
 Founder, NOVA X Quantum Inc.
 
 ---
 
-## ⚡ Closing Statement
+# Closing Statement
 
-Identity that cannot be duplicated.  
-Continuity that cannot be broken.  
-Governance that cannot be bypassed.
+Deterministic identity.  
+Continuous execution.  
+Governed autonomous infrastructure.
 
-**NOVA X Quantum™️ — Infrastructure for Persistent Autonomous Systems**
+## NOVA X Quantum™
+Infrastructure for Autonomous Systems
