@@ -1,4 +1,4 @@
-# NOVA X Quantum Inc.
+# NOVA X Quantum Inc. (NXQ)
 ## Deterministic Infrastructure for Autonomous Systems
 
 ![ACELOGIC](https://img.shields.io/badge/ACELOGIC-Control%20Plane-00D8FF)
@@ -9,7 +9,7 @@
 
 ---
 
-NOVA X Quantum Inc. develops deterministic infrastructure systems for autonomous execution, identity continuity, authority enforcement, and governed orchestration.
+NXQ develops deterministic infrastructure systems for autonomous execution, identity continuity, authority enforcement, and governed orchestration.
 
 As autonomous systems evolve from tools into persistent operators, infrastructure must enforce:
 
@@ -21,7 +21,7 @@ As autonomous systems evolve from tools into persistent operators, infrastructur
 - duplicate runtime rejection
 - fork-attempt detection and enforcement
 
-NOVA X Quantum™ provides the deterministic control-plane architecture required for autonomous systems to operate reliably, continuously, and at scale.
+NXQ provides the deterministic control-plane architecture required for autonomous systems to operate reliably, continuously, and at scale.
 
 ---
 
@@ -199,7 +199,7 @@ Public-facing repositories provide:
 
 # 🔷 Infrastructure Positioning
 
-NOVA X Quantum™ infrastructure is designed for:
+NXQ infrastructure is designed for:
 
 - enterprise orchestration systems
 - sovereign AI infrastructure
@@ -215,7 +215,7 @@ NOVA X Quantum™ infrastructure is designed for:
 
 # 🔷 Licensing
 
-NOVA X Quantum™ systems are licensed infrastructure technologies.
+NXQ systems are licensed infrastructure technologies.
 
 No intellectual property ownership is transferred through deployment, access, or integration.
 
@@ -246,7 +246,7 @@ Additional technical documentation, architecture materials, validation reports, 
 
 # 🔷 Attribution
 
-Joshua Mark Capps  
+Joshua M. Capps  
 Founder, NOVA X Quantum Inc.
 
 ---
